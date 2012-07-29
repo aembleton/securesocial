@@ -1,5 +1,7 @@
 h1. SecureSocial Module for Play! Framework Applications
 
+h2. This has been forked in order to provide solely for Play 1.x
+
 SecureSocial allows you to add an authentication UI to your app that works with services based on OAuth1, OAuth2, OpenID and OpenID+OAuth hybrid protocols.
 
 It also provides a Username and Password mechanism for users that do not wish to use existing accounts in other networks.
